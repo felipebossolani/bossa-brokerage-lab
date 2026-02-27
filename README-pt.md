@@ -52,7 +52,7 @@ A tela home concentra saldo, alocação do portfólio e transações recentes em
 
 [Ver prompt](home-single-screen/prompt.md)
 
-![Home Tela Única](home-single-screen/home-single-screen.png)
+<img src="home-single-screen/home-single-screen.png" alt="Home Tela Única" width="400">
 
 ### Três Abas — Home, Investimentos, Movimentações
 

@@ -52,7 +52,7 @@ The home screen concentrates balance, portfolio allocation, and recent transacti
 
 [View prompt](home-single-screen/prompt.md)
 
-![Home Single Screen](home-single-screen/home-single-screen.png)
+<img src="home-single-screen/home-single-screen.png" alt="Home Single Screen" width="400">
 
 ### Three Tabs — Home, Investimentos, Movimentacoes
 
