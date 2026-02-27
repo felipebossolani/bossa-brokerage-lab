@@ -32,17 +32,35 @@ Key constraints:
 
 ```
 bossa-experiment/
-  prompts/
-    bossa-prompt-1-home.md          # Single screen prompt (Home)
-    bossa-prompt-2-three-screens.md # Three screens side by side
-  outputs/
-    v1/                             # First generation results
-    v2/                             # Iterations and refinements
-  notes/
-    decisions.md                    # Design decisions and rationale
-    observations.md                 # What worked, what didn't
+  home-single-screen/
+    prompt.md                       # Single screen prompt (Home)
+    home-single-screen.png          # Generated output
+  three-tabs-screens/
+    prompt.md                       # Three screens side by side
+    three-tabs-screens.png          # Generated output
   README.md
+  README-pt.md
 ```
+
+---
+
+## Results
+
+### Single Screen — Home
+
+The home screen concentrates balance, portfolio allocation, and recent transactions in a single scrollable view.
+
+[View prompt](home-single-screen/prompt.md)
+
+![Home Single Screen](home-single-screen/home-single-screen.png)
+
+### Three Tabs — Home, Investimentos, Movimentacoes
+
+Three screens presented side by side, each with its corresponding active tab in the bottom navigation.
+
+[View prompt](three-tabs-screens/prompt.md)
+
+![Three Tabs Screens](three-tabs-screens/three-tabs-screens.png)
 
 ---
 
