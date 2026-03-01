@@ -38,6 +38,12 @@ bossa-experiment/
   three-tabs-screens/
     prompt.md                       # Three screens side by side
     three-tabs-screens.png          # Generated output
+  desktop-landpage/
+    gemini-steps.md                 # Step-by-step prompt workflow
+    hero-background.png             # Custom hero asset
+    products-icons.png              # Custom product icons
+    landpage-v01.png                # First generation
+    landpage-v02.png                # Refined iteration
   README.md
   README-pt.md
 ```
@@ -61,6 +67,24 @@ Three screens presented side by side, each with its corresponding active tab in 
 [View prompt](three-tabs-screens/prompt.md)
 
 ![Three Tabs Screens](three-tabs-screens/three-tabs-screens.png)
+
+### Desktop Landing Page
+
+A full institutional landing page generated through a multi-step workflow: design system definition, custom asset generation (hero background, product icons), and a detailed storyboard prompt for the complete page.
+
+[View workflow](desktop-landpage/gemini-steps.md)
+
+**Custom assets generated separately:**
+
+Hero background | Product icons
+:---: | :---:
+<img src="desktop-landpage/hero-background.png" alt="Hero Background" width="400"> | <img src="desktop-landpage/products-icons.png" alt="Product Icons" width="400">
+
+**Landing page iterations:**
+
+![Landing Page v01](desktop-landpage/landpage-v01.png)
+
+![Landing Page v02](desktop-landpage/landpage-v02.png)
 
 ---
 
